@@ -13,7 +13,7 @@ outline: none !important;
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
 h1{font:700 3em Raleway,Arial,Helvetica;padding:5em 0;text-transform: uppercase;color: #fff;}
-h2{font:700 1.5em Raleway,Arial,Helvetica;margin-bottom: 1.5em; color: #681D4D;}
+h2{font:700 1.5em Raleway,Arial,Helvetica;margin-bottom: 1.3em; color: #681D4D;}
 h3{font:700 1.25em Raleway,Arial,Helvetica;margin:0.5em 0;}
 
 p{font-size:1.2em;line-height: 1.5em; }
@@ -76,7 +76,7 @@ p{font-size:1.2em;line-height: 1.5em; }
 	.service{padding: 0 0 1em 0;}
 	.service p{font-size: 0.85em;}
 	.btn{padding: 1em 2em;}
-	.spacer {padding: 1.5em 1.5em 0 1.5em;}
+	.spacer {padding: 1.4em 1.4em 0 1.4em;}
 	.navbar-brand{height: 56px;}
 	.btn {padding: 0.5em 2em;}
 }	
